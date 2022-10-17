@@ -1,0 +1,68 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "affan",
+      "email": "affan123@gmail.com",
+      "mobile": 17786736,
+      "city": "HYD"
+    },
+    {
+      "id": 3,
+      "name": "syed ",
+      "email": "juned1665",
+      "mobile": 71286,
+      "city": "hyde"
+    },
+    {
+      "id": 4,
+      "name": "syed ",
+      "email": "juned1665",
+      "mobile": 71286,
+      "city": "hyde"
+    },
+    {
+      "id": 5,
+      "name": "syed",
+      "email": "syedjuned222",
+      "mobile": 126521,
+      "city": "hyd"
+    },
+    {
+      "id": 6,
+      "name": "syed ",
+      "email": "juned818728",
+      "mobile": 178266,
+      "city": "hudeh"
+    },
+    {
+      "id": 7,
+      "name": "syed",
+      "email": "hyedjhjg2",
+      "mobile": 18263,
+      "city": "hjdhfge"
+    },
+    {
+      "id": 8,
+      "name": "syed",
+      "email": "juend",
+      "mobile": 2763,
+      "city": "hdhe"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
